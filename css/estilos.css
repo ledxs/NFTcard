@@ -135,3 +135,12 @@
     color: cyan;
     cursor: pointer;
 }
+
+.image:hover + h1{
+    color: cyan;
+}
+
+h1:hover {
+    color: cyan;
+    cursor: pointer;
+} 
